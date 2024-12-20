@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sadhyoj.S.Hanwate and I'm a Second Year Engineering Student , from PCCOE</h2>
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/sadhyojhanwate/sadhyojhanwate/master/name.svg" alt="Sadhyoj Hanwate" />
-</h1>
+
 ###
 
 <div align="center">
