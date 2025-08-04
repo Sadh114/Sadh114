@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sadhyoj.S.Hanwate and I'm a Second Year Engineering Student , from PCCOE</h2>
+<h2 align="left">Hi 👋! My name is Sadhyoj.S.Hanwate and I'm a Third Year Engineering Student , from PCCOE</h2>
 
 ###
 
