@@ -2,9 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=I'm+a+CSE+Student+.+.+.;I'm+a+Developer.+.+.+;I'm+a+UI%2FUX+enthusiast+.+.+.;I'm+a+AI+explorer+.+.+.;I'm+a+ACM+member+.+.+.)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=I'm+a+CSE+Student+.+.+.;I'm+a+Developer.+.+.+;I'm+a+UI%2FUX+enthusiast+.+.+.;I'm+a+AI+explorer+.+.+.;I'm+a+ACM+member+.+.+." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=23D4FFF5&background=FFFFFF00&width=435&lines=I'm+a+CSE+Student+.+.+.;I'm+a+Developer.+.+.+;I'm+a+UI%2FUX+enthusiast+.+.+.;I'm+a+AI+explorer+.+.+.;I'm+a+ACM+member+.+.+.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -42,13 +40,17 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 
 
 
-## 🎓 Academic Excellence
+## 🎓 Academics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIIT_Ranchi-9.35_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pre_Final_Year-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/B_Tech-CSE-blue?style=for-the-badge" />
+<img alt="Static Badge" src="https://img.shields.io/badge/2027-purple?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/PCCOE-darkblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/ACM-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/IIC-darkviolet?style=for-the-badge">
+
+
 
 </div>
 
@@ -59,24 +61,23 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 ### 🏛️ Educational Background
 - 🎓 **Pimpri Chinchwad College of Engineering**
 - 💻 **Computer Science & Engineering**
-- 📅 **Expected Graduation: 2027**
+- 📅 **Expected Graduation : 2027**
 
 </td>
 <td width="50%">
 
 ### 💼 Professional Experience
-- 🏦 **CreditSea** - Software Engineer Intern
-- 💳 Working on fintech solutions and payment systems
-- 🔧 Developing web applications using modern tech stack
-- 📈 Contributing to startup growth and product development
-- 🤝 Collaborating with cross-functional teams
+- 🏦 **Zidio Development** - UI/UX Intern
+- 💳 Developed high and low fedility frameworks and full prototypes
+- 🤝 Collaborating with teams 
+- 📈 Skills & Tools : Figma, Wireframing, Prototyping, User Research, Competitive Analysise 
+
 
 </td>
 </tr>
 </table>
 
-## 🏆 Competitive Programming Achievements
-
+## 🧩 Github Contribution Snake
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Sadh114/Sadh114/output/snake.svg" alt="Snake animation" />
@@ -85,30 +86,7 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/LeetCode-1938%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><strong>Rating Achieved</strong>
-<br><sub>Top 3.6% Globally</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<br><strong>Rank Achieved</strong>
-<br><sub>Consistent Performer</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/CodeChef-_3Star-yellow?style=for-the-badge&logo=codechef&logoColor=white"/>
-<br><strong>Rating Level</strong>
-<br><sub>Active Competitor</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GeeksforGeeks-3Star-success?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<br><strong>Problem Solver</strong>
-<br><sub>Regular Contributor</sub>
-</td>
-</tr>
-</table>
+
 
 <div align="center">
 
@@ -116,41 +94,66 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 
 
 ## 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<div height="10%"></div>
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🎨 Frontend</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</td>
-<td width="33%" align="center">
-<h3>⚙️ Backend</h3>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</td>
-<td width="33%" align="center">
-<h3>🚀 DevOps & Tools</h3>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 📊🚀 Programming Languages and  Skills | 🤖 Artificial Intelligence & Machine Learning |
+|-----------------------------------------------------------|----------------------|
+| ![C](https://img.shields.io/badge/C-0077B6?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![DS](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=code&logoColor=white) ![Algo](https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge&logo=git-merge&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+
+| 🛠 Tools & 🗄 Data |
+|------------------------------------------|
+|![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <img alt="Static Badge" src="https://img.shields.io/badge/--black"> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  |
+
+</div>
 
 
 ## 🤝 Connect With Me
