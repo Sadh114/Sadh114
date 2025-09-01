@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Sajal Namdeo
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Sadhyoj . S . Hanwate
 
 <div align="center">
   
@@ -23,19 +23,17 @@
 </div>
 
 ## 👋 Who Am I?
-I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.35 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
+I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Third Year at PCCOE . 
 
-## 🚀 My Journey
-As a dedicated full-stack developer and competitive programmer, I've solved 2000+ problems across various coding platforms, achieving a top 3.6% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
 
 ## 💻 What I Do
 - 🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
 
-- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
+- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and HackerRank
 
-- 🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
+- 🌐 Skills & Tools : PowerBI,Figma,Canva,Event Management,DBMS . 
 
-- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
+- 📚 Learning: Constantly expanding my knowledge in web development, technologies and software architecture
 
 
 
@@ -57,10 +55,9 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <td width="50%">
 
 ### 🏛️ Educational Background
-- 🎓 **Indian Institute of Information Technology, Ranchi**
+- 🎓 **Pimpri Chinchwad College of Engineering**
 - 💻 **Computer Science & Engineering**
-- 📊 **CGPA: 9.35/10.0**
-- 📅 **Expected Graduation: 2026**
+- 📅 **Expected Graduation: 2027**
 
 </td>
 <td width="50%">
@@ -111,23 +108,12 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 <div align="center">
 
-### 🔗 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sajal0701/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sajal07)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sajal0701)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sajal0701/)
-
 </div>
 
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,react,nextjs,nodejs,express,mongodb,postgresql,mysql,gcp,aws,docker,git,vscode,postman,figma,tailwind,redux&theme=dark" />
-
-</div>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <div height="10%"></div>
 
 <table>
