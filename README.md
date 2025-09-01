@@ -28,19 +28,6 @@
 I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Third Year at PCCOE . 
 
 <br>
-## 💻 What I Do
-- 🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
-
-- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and HackerRank
-
-- 🌐 Skills & Tools : PowerBI,Figma,Canva,Event Management,DBMS . 
-
-- 📚 Learning: Constantly expanding my knowledge in web development, technologies and software architecture
-<br>
-
-
-
-
 
 ## 🎓 Academics
 
