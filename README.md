@@ -1,8 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Sadhyoj . S . Hanwate
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Pre-Final+Year+CS+Student+%40+IIIT+Ranchi+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;SWE+Intern+%40+CreditSea+Fintech+%F0%9F%9A%80;Building+Digital+Solutions%2C+One+Commit+at+a+Time+%E2%9C%A8;Top+3.6%25+on+LeetCode+%7C+2000%2B+Problems+Solved+%F0%9F%94%A5)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=I'm+a+CSE+Student+.+.+.;I'm+a+Developer.+.+.+;I'm+a+UI%2FUX+enthusiast+.+.+.;I'm+a+AI+explorer+.+.+.;I'm+a+ACM+member+.+.+.)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=I'm+a+CSE+Student+.+.+.;I'm+a+Developer.+.+.+;I'm+a+UI%2FUX+enthusiast+.+.+.;I'm+a+AI+explorer+.+.+.;I'm+a+ACM+member+.+.+." alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
