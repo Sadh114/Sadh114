@@ -18,7 +18,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=tokyo-night&hide_border=true" width="100%"/>
 
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sajal072004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sadh114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sadh114&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
