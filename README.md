@@ -9,8 +9,9 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sadh114&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
@@ -21,11 +22,12 @@
 [![](https://visitcount.itsvg.in/api?id=Sadh114&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+<br>
 
 ## 👋 Who Am I?
 I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Third Year at PCCOE . 
 
-
+<br>
 ## 💻 What I Do
 - 🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
 
@@ -34,7 +36,7 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 - 🌐 Skills & Tools : PowerBI,Figma,Canva,Event Management,DBMS . 
 
 - 📚 Learning: Constantly expanding my knowledge in web development, technologies and software architecture
-
+<br>
 
 
 
@@ -57,6 +59,7 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 <table>
 <tr>
 <td width="50%">
+
 
 ### 🏛️ Educational Background
 - 🎓 **Pimpri Chinchwad College of Engineering**
@@ -120,7 +123,7 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 
 <div align="center">
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60%">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzU4a2QzdXNxdWFhYzkxdTFnNzlhYjhrZ2t2aHZmajdyb3EyOTVwYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eDfEKRdCdvtpMopxYM/giphy.gif" width="60%" alt="Handshake GIF" />
 
 ### 📬 Let's Build Something Amazing Together!
 
