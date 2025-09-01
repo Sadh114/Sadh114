@@ -77,7 +77,9 @@ I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Thi
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sadh114/Sadh114/output/snake.svg" alt="Snake animation" />
+
+
 
 </div>
 
