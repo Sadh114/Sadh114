@@ -8,14 +8,10 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&theme=tokyonight&hide_border=true"  width="60%"/>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=tokyo-night&hide_border=true" width="100%"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sadh114&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
