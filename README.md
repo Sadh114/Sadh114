@@ -8,7 +8,17 @@
 
 </div>
 
+
 # 📊 GitHub Stats:
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sadh114&theme=dark&hide_border=true" width="60%" />
+</div>
+
+
+<br/>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Sadh114&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -33,6 +43,25 @@
 
 ## 👋 Who Am I?
 I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Third Year at PCCOE . 
+
+
+* Strong foundation in **C++, Java, Python, SQL, and JavaScript**
+* Knowledge of **Machine Learning, Data Pipelines, and ETL workflows**
+* Experience working with **Pandas, NumPy, Scikit-learn, and TensorFlow**
+
+Passionate about working across the **entire data lifecycle** — from data collection and cleaning to modeling and building scalable solutions. Skilled in analyzing datasets, identifying patterns, and developing **data-driven insights**.
+
+Currently expanding expertise in:
+
+* **AWS (Cloud Computing)**
+* **Distributed Systems**
+* **Big Data Processing & Data Visualization**
+
+I enjoy solving real-world problems with **clean, efficient, and scalable solutions** and am actively seeking **internship opportunities** where I can apply my skills, learn from industry professionals, and contribute to impactful projects.
+
+---
+
+
 
 <br>
 
