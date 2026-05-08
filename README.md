@@ -12,7 +12,6 @@
 Live Link - https://sadhyoj-portfolio-website.vercel.app/
 
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1c54fdd9-4c23-49e5-9c29-6b835db0618d" />
 
 # 📊 GitHub Stats:
 
