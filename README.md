@@ -17,7 +17,7 @@ Live Link - https://sadhyoj-portfolio-website.vercel.app/
 
 <br/>
 
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sadh114&theme=dark&hide_border=true" width="60%" />
 </div>
 
