@@ -91,6 +91,7 @@ I enjoy solving real-world problems with **clean, efficient, and scalable soluti
 ### 🏛️ Educational Background
 - 🎓 **Pimpri Chinchwad College of Engineering**
 - 💻 **Computer Science & Engineering**
+- 📈 **SGPA : 9.15**
 - 📅 **Expected Graduation : 2027**
 
 </td>
