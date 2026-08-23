@@ -16,12 +16,7 @@ Live Link - https://sadhyoj-portfolio-website.vercel.app/
 # 📊 GitHub Stats:
 
 <br/>
-
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sadh114&theme=dark&hide_border=true" width="60%" />
-</div>
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sadh114&theme=dark" alt="GitHub Streak" /></a>
 <br/>
 
 
@@ -91,10 +86,15 @@ I enjoy solving real-world problems with **clean, efficient, and scalable soluti
 <td width="50%">
 
 ### 💼 Professional Experience
-- 🏦 **Zidio Development** - UI/UX Intern
-- 💳 Developed high and low fedility frameworks and full prototypes
-- 🤝 Collaborating with teams 
-- 📈 Skills & Tools : Figma, Wireframing, Prototyping, User Research, Competitive Analysise 
+* 🤖 **AI Engineering Intern** - DAO EVTech
+* ⚡ Reduced AI agent/bot latency by **75%** through pipeline optimization and workflow tuning
+* 📄 Built AI-powered OCR & document automation pipelines, improving processing speed by **70%**
+* 🛠️ Resolved critical bugs across **2 AI agents**, improving overall efficiency by **40%**
+* 🔄 Designed AI agent-based automation simulating human interactions with **95%+ data extraction accuracy**
+* 📈 Reduced production issues by **50%** through stronger automation logic and validation workflows
+* 🤝 Collaborated with cross-functional teams on automation, testing, deployment, and documentation
+* 🧰 **Skills & Tools:** AI Agents, OCR, Document Automation, Workflow Automation, Python, AI/ML, Automation Pipelines
+
 
 
 </td>
