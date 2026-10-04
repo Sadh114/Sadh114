@@ -110,7 +110,7 @@ I enjoy solving real-world problems with **clean, efficient, and scalable soluti
 
 <h3>LEETCODE</h3>
 
-<a href="https://leetcode.com/u/Sadhyoj1/">
+<a href="https://leetcode.com/u/Sadhyoj114/">
 <img src="https://img.shields.io/badge/⚡Sadhyoj1-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
