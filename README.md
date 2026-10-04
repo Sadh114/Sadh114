@@ -51,9 +51,101 @@ Currently expanding expertise in:
 
 I enjoy solving real-world problems with **clean, efficient, and scalable solutions** and am actively seeking **internship opportunities** where I can apply my skills, learn from industry professionals, and contribute to impactful projects.
 
+
+-----
+
+
+## ⚔️ Coding Arena
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=23D4FF&center=true&vCenter=true&width=600&lines=CODE.+SOLVE.+COMPETE.+REPEAT.;Turning+Logic+Into+Solutions+%F0%9F%94%A5;One+Problem+At+A+Time+%F0%9F%A7%A0" />
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="65"/>
+
+<br><br>
+
+<h3>HACKERRANK</h3>
+
+<a href="https://www.hackerrank.com/profile/Sadhyoj1">
+<img src="https://img.shields.io/badge/⚡Sadhyoj1-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-5★-2EC866?style=flat-square" />
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="65"/>
+
+<br><br>
+
+<h3>CODECHEF</h3>
+
+<a href="https://www.codechef.com/users/sadhyoj">
+<img src="https://img.shields.io/badge/⚡sadhyoj-111111?style=for-the-badge&logo=codechef&logoColor=5B4638" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-4★-5B4638?style=flat-square" />
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="65"/>
+
+<br><br>
+
+<h3>LEETCODE</h3>
+
+<a href="https://leetcode.com/u/Sadhyoj1/">
+<img src="https://img.shields.io/badge/⚡Sadhyoj1-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+
+### 🧩 My Coding Philosophy
+
+<table>
+<tr>
+<td align="center">🧠<br><b>THINK</b><br><sub>Understand the problem</sub></td>
+<td align="center">⚙️<br><b>BUILD</b><br><sub>Design the approach</sub></td>
+<td align="center">💻<br><b>CODE</b><br><sub>Write the solution</sub></td>
+<td align="center">🔥<br><b>OPTIMIZE</b><br><sub>Make it efficient</sub></td>
+<td align="center">🚀<br><b>REPEAT</b><br><sub>Keep improving</sub></td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%24+while(true)+%7B+learn();+solve();+improve();+%7D;Debugging+today+%E2%86%92+Better+developer+tomorrow+%F0%9F%9A%80" />
+
+</div>
+
 ---
-
-
 
 <br>
 
