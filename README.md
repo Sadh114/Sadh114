@@ -34,7 +34,7 @@ Live Link - https://sadhyoj-portfolio-website.vercel.app/
 <br>
 
 ## 👋 Who Am I?
-I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Third Year at PCCOE . 
+I'm Sadhyoj Hanwate, a passionate Computer Science Engineering student in my Final Year at PCCOE . 
 
 
 * Strong foundation in **C++, Java, Python, SQL, and JavaScript**
